@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\6a57684a32b56068382598a8c369beaf\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\91951\.gradle\caches\transforms-3\95a077a83a0ccbca27792df09e21544c\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\2f12b928d1f22758043ba35f153f1f90\transformed\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\a83c6c19517bd60d8a340a99d216193d\transformed\support-fragment-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0201394e3f48d7b69efa7d7e34ba4df5\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\c55e698bf1b25f05e19737ea1246c6f8\transformed\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\030f97fe746f32517ad54d9765037991\transformed\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\73f603313091941bd0483b2855b01baa\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\759eb7a10152c5226cbc363074288693\transformed\loader-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\966cd50d9e2913a19e797d81dd16aaf4\transformed\viewpager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1616928def02ee120d80a6a6223851a3\transformed\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\e930c0a77a3cc189c377a78510d74600\transformed\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\13a5e2aad4a2dd048315b53ae6e79791\transformed\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\aff300e1d5f15b38e122c9c3bae61900\transformed\customview-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1fdb6ec3781f6976ef9df1e9245e54b0\transformed\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0c1ad9064e6ea8673dd5c36ffbf273ec\transformed\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\bd03febb673a96f86d19271984c3fd71\transformed\support-compat-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4ab14fbbd1ab37b0c9c10ea76c1b6aa3\transformed\documentfile-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4995f35c49958b7da1b0354e14797bfc\transformed\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3576e598c050538e1d5c0d9e280531ea\transformed\print-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3cfd07feeac83fc2842eb47756cebf44\transformed\interpolator-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\582a23fc257e8220cebab9afcd3191b7\transformed\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\ab237f6e683bace20c277c2588b3041f\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\e8d86f0b86b18587434915ee06e7aca4\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\9c3dd9e40c30ac37abef96104978a64f\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\cec8b78607a2ec1495aa4f9d3e61a249\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\91951\.gradle\caches\transforms-3\95a077a83a0ccbca27792df09e21544c\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\91951\.gradle\caches\transforms-3\95a077a83a0ccbca27792df09e21544c\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:9:9-52
+	android:icon
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:7:9-47
+	android:allowBackup
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:11:9-68
+activity#me.mahakagg.calculator.MainActivity
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:launchMode
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:13:13-43
+	android:name
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\6a57684a32b56068382598a8c369beaf\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\6a57684a32b56068382598a8c369beaf\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\91951\.gradle\caches\transforms-3\95a077a83a0ccbca27792df09e21544c\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\91951\.gradle\caches\transforms-3\95a077a83a0ccbca27792df09e21544c\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\2f12b928d1f22758043ba35f153f1f90\transformed\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\2f12b928d1f22758043ba35f153f1f90\transformed\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\a83c6c19517bd60d8a340a99d216193d\transformed\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\a83c6c19517bd60d8a340a99d216193d\transformed\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0201394e3f48d7b69efa7d7e34ba4df5\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0201394e3f48d7b69efa7d7e34ba4df5\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\c55e698bf1b25f05e19737ea1246c6f8\transformed\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\c55e698bf1b25f05e19737ea1246c6f8\transformed\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\030f97fe746f32517ad54d9765037991\transformed\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\030f97fe746f32517ad54d9765037991\transformed\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\73f603313091941bd0483b2855b01baa\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\73f603313091941bd0483b2855b01baa\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\759eb7a10152c5226cbc363074288693\transformed\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\759eb7a10152c5226cbc363074288693\transformed\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\966cd50d9e2913a19e797d81dd16aaf4\transformed\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\966cd50d9e2913a19e797d81dd16aaf4\transformed\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1616928def02ee120d80a6a6223851a3\transformed\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1616928def02ee120d80a6a6223851a3\transformed\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\e930c0a77a3cc189c377a78510d74600\transformed\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\e930c0a77a3cc189c377a78510d74600\transformed\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\13a5e2aad4a2dd048315b53ae6e79791\transformed\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\13a5e2aad4a2dd048315b53ae6e79791\transformed\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\aff300e1d5f15b38e122c9c3bae61900\transformed\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\aff300e1d5f15b38e122c9c3bae61900\transformed\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1fdb6ec3781f6976ef9df1e9245e54b0\transformed\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\1fdb6ec3781f6976ef9df1e9245e54b0\transformed\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0c1ad9064e6ea8673dd5c36ffbf273ec\transformed\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\0c1ad9064e6ea8673dd5c36ffbf273ec\transformed\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\bd03febb673a96f86d19271984c3fd71\transformed\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\bd03febb673a96f86d19271984c3fd71\transformed\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4ab14fbbd1ab37b0c9c10ea76c1b6aa3\transformed\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4ab14fbbd1ab37b0c9c10ea76c1b6aa3\transformed\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4995f35c49958b7da1b0354e14797bfc\transformed\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\4995f35c49958b7da1b0354e14797bfc\transformed\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3576e598c050538e1d5c0d9e280531ea\transformed\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3576e598c050538e1d5c0d9e280531ea\transformed\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3cfd07feeac83fc2842eb47756cebf44\transformed\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\3cfd07feeac83fc2842eb47756cebf44\transformed\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\582a23fc257e8220cebab9afcd3191b7\transformed\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\91951\.gradle\caches\transforms-3\582a23fc257e8220cebab9afcd3191b7\transformed\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\ab237f6e683bace20c277c2588b3041f\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\ab237f6e683bace20c277c2588b3041f\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\e8d86f0b86b18587434915ee06e7aca4\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\e8d86f0b86b18587434915ee06e7aca4\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\9c3dd9e40c30ac37abef96104978a64f\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\9c3dd9e40c30ac37abef96104978a64f\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\cec8b78607a2ec1495aa4f9d3e61a249\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91951\.gradle\caches\transforms-3\cec8b78607a2ec1495aa4f9d3e61a249\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91951\OneDrive\Desktop\Android_Simple_Calculator-master\Calculator\app\src\main\AndroidManifest.xml
